@@ -1,0 +1,21 @@
+.space {
+  height: 300vh;
+  background-color: black;
+}
+
+.space-text {
+  width: 895px;
+  height: 195px;
+  border: 17px solid #000;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.space-text p {
+  width: 595px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
