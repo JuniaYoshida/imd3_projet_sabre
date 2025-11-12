@@ -1,8 +1,14 @@
 button {
-  width: 348px;
-  height: 101px;
+  width: 298px;
+  height: 110px;
   text-decoration: None;
   border-radius: 44px;
-  border: 6px solid #e8da61;
+  border: 5px solid #e8da61;
   background: #fff;
+}
+
+.button {
+  display: flex;
+  padding-left: 1020px;
+  padding-top: 600px;
 }

@@ -24,3 +24,16 @@ p {
   font-weight: 400;
   line-height: 125%; /* 40px */
 }
+
+.scroller-stroll {
+  height: 100vh;
+  border: white 5px solid;
+  overflow: hidden;
+  transform-origin: center center;
+}
+
+.screens-stroll {
+  display: inline-flex;
+  border: black 5px solid;
+  height: 100%;
+}
