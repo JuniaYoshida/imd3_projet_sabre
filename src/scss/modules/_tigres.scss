@@ -7,10 +7,18 @@
 
 .tigers-image {
   width: 100%;
-  height: 120%;
-  height: 50vh;
+  height: 90vh;
   position: absolute;
-  bottom: 98px;
+  bottom: 0px;
   background-image: url("/src/img/06_img_tigres.png");
   background-repeat: no-repeat;
+}
+
+.tigers-jumping-sabre {
+  width: 100%;
+  height: 1000px;
+  position: absolute;
+  left: -19%;
+  bottom: -880px;
+  background-image: url("/src/img/07_img_saut.png");
 }

@@ -49,7 +49,7 @@ tl.to(".tigers-image", {
   duration: 3,
 });
 
-tl.to(".jumping-sabre", {
+tl.to(".tigers-jumping-sabre", {
   y: "-=600px",
   x: "+=300px",
   duration: 2,
