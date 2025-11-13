@@ -1,7 +1,13 @@
 .savane-walking-sabre {
-  position: fixed;
-  left: 24%;
-  bottom: 60px;
+  width: 900px;
+  height: 805px;
+  position: absolute;
+  left: 10%;
+  bottom: 0px;
+  background-image: url("/src/img/04_img_savane.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .savane-walking-sabre img {
