@@ -27,24 +27,21 @@ p {
 
 .scroller-stroll {
   height: 100vh;
-  border: white 5px solid;
   overflow: hidden;
   transform-origin: center center;
 }
 
 .screens-stroll {
   display: inline-flex;
-  border: black 5px solid;
   height: 100%;
 }
-
+.space,
 .cave,
 .savane,
 .tigers {
   height: 100%;
   width: 100vw;
   flex-shrink: 0;
-  border: #d6939a 5px solid;
   position: relative;
 }
 

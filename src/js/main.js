@@ -24,7 +24,7 @@ tl.to(
   ".screens-stroll",
   {
     scale: 0.85,
-    duration: 1,
+    duration: 2,
   },
   "-=1"
 );
@@ -39,7 +39,7 @@ tl.to(".screens-stroll", {
   duration: 4,
 });
 
-tl.to(".walking-sabre", {
+tl.to(".savane-walking-sabre", {
   x: "+=500px",
   duration: 2,
 });
