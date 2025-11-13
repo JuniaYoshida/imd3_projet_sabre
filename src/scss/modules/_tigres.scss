@@ -1,14 +1,16 @@
 .tigers {
   background-image: url("/src/img/05_img_ciel.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .tigers-image {
   width: 100%;
+  height: 120%;
   height: 50vh;
   position: absolute;
-  bottom: 0;
+  bottom: 98px;
   background-image: url("/src/img/06_img_tigres.png");
-  background-position: bottom;
   background-repeat: no-repeat;
-  background-size: 100%;
 }

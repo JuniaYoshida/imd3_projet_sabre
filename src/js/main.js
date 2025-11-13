@@ -55,12 +55,16 @@ tl.to(".jumping-sabre", {
   duration: 2,
 });
 
-tl.to(".buffalo", {
-  scale: 0.85,
-  duration: 5,
-});
-
 tl.to(".screens-stroll", {
   x: "-80%",
   duration: 4,
 });
+
+tl.to(
+  ".buffalo",
+  {
+    scale: 0.8,
+    duration: 3,
+  },
+  "-=4"
+);
