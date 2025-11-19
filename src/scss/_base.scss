@@ -45,31 +45,6 @@ p {
   position: relative;
 }
 
-.jumping-sabre {
-  width: 300px;
-  height: 300px;
-  position: absolute;
-  left: 20%;
-  bottom: -300px;
-  background-color: #d9ae93;
-}
-
-.buffalo {
-  height: 100%;
-  width: 100vw;
-  flex-shrink: 0;
-  border: #754c49 5px solid;
-}
-
-.falling-sabre {
-  width: 150px;
-  height: 150px;
-  position: absolute;
-  left: 20%;
-  bottom: 300px;
-  background-color: #d9ae93;
-}
-
 .corpse {
   height: 300%;
   width: 100vw;
