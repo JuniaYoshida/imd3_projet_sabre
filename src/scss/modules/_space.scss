@@ -4,10 +4,12 @@
   background-image: url("/src/img/02_img_space.png");
   background-size: 100%;
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: relative;
 }
 
 .space-text {
+  margin-top: 60%;
+  margin-left: 4%;
   width: 895px;
   height: 195px;
   border: 17px solid #000;
@@ -15,6 +17,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  position: absolute;
 }
 
 .space-text p {
