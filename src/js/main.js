@@ -17,31 +17,17 @@ var tl = gsap.timeline({
 
 tl.to(".screens-stroll", {
   x: "-20%",
-  duration: 4,
+  duration: 3,
 });
-
-tl.to(
-  ".screens-stroll",
-  {
-    scale: 0.85,
-    duration: 2,
-  },
-  "-=1"
-);
 
 tl.to(".screens-stroll", {
   scale: 1,
-  duration: 3,
+  duration: 2,
 });
 
 tl.to(".screens-stroll", {
   x: "-40%",
   duration: 4,
-});
-
-tl.to(".savane-walking-sabre", {
-  x: "+=500px",
-  duration: 2,
 });
 
 tl.to(".tigers-image", {
