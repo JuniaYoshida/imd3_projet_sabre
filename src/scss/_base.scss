@@ -45,23 +45,6 @@ p {
   position: relative;
 }
 
-.fade {
-  height: 300%;
-  width: 100vw;
-  flex-shrink: 0;
-  border: white 5px solid;
-  mix-blend-mode: multiply;
-}
-
-.winter {
-  height: 300%;
-  width: 100vw;
-  flex-shrink: 0;
-  border: black 5px solid;
-  background-color: white;
-  object-fit: cover;
-}
-
 footer {
   height: 300%;
   width: 100vw;

@@ -21,11 +21,6 @@ tl.to(".screens-stroll", {
 });
 
 tl.to(".screens-stroll", {
-  scale: 1,
-  duration: 3,
-});
-
-tl.to(".screens-stroll", {
   x: "-52%",
   duration: 4,
 });
