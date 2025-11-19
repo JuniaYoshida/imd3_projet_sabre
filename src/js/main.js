@@ -22,11 +22,11 @@ tl.to(".screens-stroll", {
 
 tl.to(".screens-stroll", {
   scale: 1,
-  duration: 2,
+  duration: 3,
 });
 
 tl.to(".screens-stroll", {
-  x: "-40%",
+  x: "-52%",
   duration: 4,
 });
 
