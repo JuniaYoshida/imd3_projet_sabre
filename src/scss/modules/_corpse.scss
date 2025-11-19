@@ -1,7 +1,11 @@
-.corpse {
+.automn {
   height: 300%;
   width: 100vw;
   flex-shrink: 0;
-  background-image: url(/src/img/);
-  border: #754c49 5px solid;
+  border: black 5px solid;
+  background-image: url("/src/img/10_img_corpse.png");
+  background-repeat: no-repeat;
+  background-color: #d6939a;
+  opacity: 1;
+  transition: opacity 1s;
 }
