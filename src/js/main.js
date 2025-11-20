@@ -16,12 +16,12 @@ var tl = gsap.timeline({
 });
 
 tl.to(".screens-stroll", {
-  x: "-20%",
+  x: "-10%",
   duration: 3,
 });
 
 tl.to(".screens-stroll", {
-  x: "-52%",
+  x: "-42%",
   duration: 4,
 });
 
@@ -44,13 +44,23 @@ tl.to(".screens-stroll", {
 tl.to(
   ".buffalo",
   {
-    scale: 0.8,
+    scale: (2, 0.8),
     duration: 3,
   },
   "-=4"
 );
 
 tl.to(".screens-stroll", {
-  x: "-0%",
+  x: "-83.3%",
+  duration: 3,
+});
+
+tl.to(".screens-stroll", {
+  y: "-140%",
+  duration: 4,
+});
+
+tl.to(".screens-stroll", {
+  x: "-130%",
   duration: 4,
 });
