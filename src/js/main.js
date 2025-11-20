@@ -21,13 +21,13 @@ tl.to(".screens-stroll", {
 });
 
 tl.to(".screens-stroll", {
-  x: "-42%",
+  x: "-40%",
   duration: 4,
 });
 
 tl.to(".tigers-image", {
   y: "100%",
-  duration: 3,
+  duration: 4,
 });
 
 tl.to(".tigers-jumping-sabre", {
@@ -51,11 +51,11 @@ tl.to(
 );
 
 tl.to(".screens-stroll", {
-  x: "-83.3%",
+  x: "-80%",
   duration: 3,
 });
 
 tl.to(".screens-stroll", {
-  y: "-140%",
-  duration: 4,
+  y: "-180%",
+  duration: 3,
 });

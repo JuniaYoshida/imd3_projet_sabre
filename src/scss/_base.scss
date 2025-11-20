@@ -25,6 +25,15 @@ p {
   line-height: 125%; /* 40px */
 }
 
+a {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 125%; /* 80px */
+  letter-spacing: 5.12px;
+}
+
 .scroller-stroll {
   height: 100vh;
   overflow: hidden;
@@ -46,8 +55,8 @@ p {
 }
 
 footer {
-  height: 300%;
+  height: 100vh;
   width: 100vw;
   flex-shrink: 0;
-  border: #e8da61 5px solid;
+  background-color: aqua;
 }
