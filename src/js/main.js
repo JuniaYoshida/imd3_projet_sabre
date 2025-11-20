@@ -59,8 +59,3 @@ tl.to(".screens-stroll", {
   y: "-140%",
   duration: 4,
 });
-
-tl.to(".screens-stroll", {
-  x: "-130%",
-  duration: 4,
-});
