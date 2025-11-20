@@ -1,5 +1,5 @@
 .tigers {
-  background-image: url("/src/img/05_img_ciel.png");
+  background-image: url("/src/img/05_img_ciel.png?as=webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 110%;
@@ -10,7 +10,7 @@
   height: 90vh;
   position: absolute;
   bottom: 1%;
-  background-image: url("/src/img/06_img_tigres.png");
+  background-image: url("/src/img/06_img_tigres.png?as=webp");
   background-repeat: no-repeat;
 }
 
@@ -20,5 +20,5 @@
   position: absolute;
   left: -19%;
   bottom: -880px;
-  background-image: url("/src/img/07_img_saut.png");
+  background-image: url("/src/img/07_img_saut.png?as=webp");
 }

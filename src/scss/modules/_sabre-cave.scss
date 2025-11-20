@@ -1,7 +1,7 @@
 .sabre-cave {
   height: 100vh;
   width: 100vw;
-  background-image: url("/src/img/11_img_automne.png");
+  background-image: url("/src/img/11_img_automne.png?as=webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -10,5 +10,5 @@
 
 .sabre-cave:hover {
   opacity: 90%;
-  background-image: url("/src/img/12_img_snow.png");
+  background-image: url("/src/img/12_img_snow.png?as=webp");
 }
