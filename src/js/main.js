@@ -49,3 +49,8 @@ tl.to(
   },
   "-=4"
 );
+
+tl.to(".screens-stroll", {
+  x: "-0%",
+  duration: 4,
+});
