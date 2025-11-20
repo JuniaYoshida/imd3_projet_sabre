@@ -1,5 +1,19 @@
 footer {
-  height: 100vh;
+  height: 30vh;
   width: 100vw;
-  background-color: aqua;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+.footer-link {
+  margin-left: 200px;
+}
+.footer-icon {
+  display: flex;
+  align-items: baseline;
+  gap: 100px;
+  margin-top: -80px;
+  margin-left: 930px;
 }

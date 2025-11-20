@@ -6,6 +6,10 @@ button {
   border: 5px solid #e8da61;
   background: #fff;
 }
+button:hover {
+  border: 6px solid #fff;
+  background: #e8da61;
+}
 
 .button {
   display: flex;

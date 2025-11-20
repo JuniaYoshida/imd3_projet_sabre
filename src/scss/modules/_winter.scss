@@ -1,7 +1,7 @@
 .winter {
-  height: 7000px;
+  height: 330vh;
   width: 100vw;
-  position: absolute;
+  position: relative;
   background-image: url("/src/img/14_img_snow.png");
   background-position: top;
   background-repeat: no-repeat;
@@ -11,10 +11,19 @@
 .winter-text {
   width: 798px;
   height: 368px;
-  margin-left: 81px;
-  margin-top: 730px;
+  position: absolute;
+  top: 660px;
+  left: 80px;
+  // margin-left: 81px;
+  // margin-top: 730px;
 }
 
 .winter-text p {
   padding: 20px;
+}
+
+.winter button {
+  position: absolute;
+  top: 1600px;
+  left: 900px;
 }
